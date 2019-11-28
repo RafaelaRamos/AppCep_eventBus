@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appCEP</string>
+    <string name="logadouro">LOGRADOURO</string>
+    <string name="complemento">COMPLEMENTO</string>
+    <string name="bairro">BAIRRO</string>
+    <string name="cidade">CIDADE</string>
+    <string name="estado">ESTADO</string>
+    <string name="cep">cep</string>
+    <string name="ok"> Buscar</string>
+
+</resources>
